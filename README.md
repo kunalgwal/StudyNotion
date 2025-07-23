@@ -38,10 +38,7 @@ Study Notion Website is a Full-Stack website and EdTech platform designed for in
 - Authorization and Authentication: JWT Tokens, Cookie Parser
 - Payment Integration: Razorpay (testing account)
 
-## Links
 
-- **Live Website**: [Study Notion Website](https://studynotion-website-5f95.vercel.app/)
-- **GitHub Repository**: [Studynotion-Website](https://github.com/Saaraansh10/Studynotion-Website)
 
 ---
 Feel free to explore the live website and the GitHub repository for more details on the project.
